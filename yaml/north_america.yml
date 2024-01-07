@@ -261,11 +261,19 @@ min_providers:
   WSTETH: 1
 url_sets:
   api_kujira:
-  - https://example
+  - https://lcd-kujira.mintthemoon.xyz
+  - https://kujira-api.polkachu.com
+  - https://rest.cosmos.directory/kujira
   api_neutron:
-  - https://example
+  - https://neutron-api.lavenderfive.com
+  - https://lcd-neutron.whispernode.com
   api_osmosis:
-  - https://example
+  - https://osmosis-api.polkachu.com
+  - https://osmosis-api.lavenderfive.com
+  - https://rest-osmosis.ecostake.com
+  - https://rest.cosmos.directory/osmosis
   rpc_ethereum:
-  - https://example
-
+  - https://eth.llamarpc.com
+  - https://rpc.flashbots.net
+  - https://cloudflare-eth.com
+  - https://rpc.ankr.com/eth
