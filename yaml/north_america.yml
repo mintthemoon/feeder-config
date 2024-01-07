@@ -277,3 +277,6 @@ url_sets:
   - https://rpc.flashbots.net
   - https://cloudflare-eth.com
   - https://rpc.ankr.com/eth
+  fin:
+  - https://api.kujira.app
+  - https://kaiyo-1.gigalixirapp.com
