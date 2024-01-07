@@ -528,6 +528,12 @@ urls = [
   "https://rpc.ankr.com/eth",
 ]
 
+[url_set.fin]
+urls = [
+  "https://api.kujira.app",
+  "https://kaiyo-1.gigalixirapp.com",
+]
+
 #
 #  ENDPOINTS
 # ------------------------------------------------------------
