@@ -261,7 +261,7 @@ url_sets:
   rpc_ethereum:
     - https://example
   fin:
-  - https://example
+    - https://example
 
 endpoints:
   astroport_neutron:
