@@ -249,19 +249,29 @@ currency_pairs:
 
 url_sets:
   api_kujira:
-    - https://example
+  - https://lcd-kujira.mintthemoon.xyz
+  - https://kujira-api.polkachu.com
+  - https://rest.cosmos.directory/kujira
   api_neutron:
-    - https://example
+  - https://neutron-api.lavenderfive.com
+  - https://lcd-neutron.whispernode.com
   api_osmosis:
-    - https://example
+  - https://osmosis-api.polkachu.com
+  - https://osmosis-api.lavenderfive.com
+  - https://rest-osmosis.ecostake.com
+  - https://rest.cosmos.directory/osmosis
   api_persistence:
-    - https://example
-  api_secret:
-    - https://example
+  - https://persistence-api.polkachu.com
+  - https://persistence-api.lavenderfive.com
+  - https://rest.cosmos.directory/persistence
   rpc_ethereum:
-    - https://example
+  - https://eth.llamarpc.com
+  - https://rpc.flashbots.net
+  - https://cloudflare-eth.com
+  - https://rpc.ankr.com/eth
   fin:
-  - https://example
+  - https://api.kujira.app
+  - https://kaiyo-1.gigalixirapp.com
 
 endpoints:
   astroport_neutron:
