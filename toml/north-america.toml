@@ -550,6 +550,13 @@ urls = [
   "https://rest.cosmos.directory/persistence",
 ]
 
+[url_set.api_secret]
+urls = [
+  "https://secretnetwork-api.lavenderfive.com/",
+  "http://secretnetwork-mainnet-lcd.autostake.com:1317/",
+  "https://rest.cosmos.directory/secretnetwork",
+]
+
 [url_set.rpc_ethereum]
 urls = [
   "https://eth.llamarpc.com",

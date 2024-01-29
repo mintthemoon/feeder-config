@@ -264,6 +264,10 @@ url_sets:
   - https://persistence-api.polkachu.com
   - https://persistence-api.lavenderfive.com
   - https://rest.cosmos.directory/persistence
+  api_secret:
+  - https://secretnetwork-api.lavenderfive.com/
+  - http://secretnetwork-mainnet-lcd.autostake.com:1317/
+  - https://rest.cosmos.directory/secretnetwork
   rpc_ethereum:
   - https://eth.llamarpc.com
   - https://rpc.flashbots.net
